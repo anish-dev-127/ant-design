@@ -77,6 +77,7 @@ The following APIs are shared by DatePicker, RangePicker.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | allowClear | Customize clear button | boolean \| { clearIcon?: ReactNode } | true | 5.8.0: Support object type |
 | autoFocus | If get focus when component mounted | boolean | false |  |
 | bordered | Whether has border style | boolean | true |  |

@@ -33,6 +33,7 @@ Checkbox component.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | autoFocus | If get focus when component mounted | boolean | false |  |
 | checked | Specifies whether the checkbox is selected | boolean | false |  |
 | defaultChecked | Specifies the initial state: whether or not the checkbox is selected | boolean | false |  |
@@ -44,6 +45,7 @@ Checkbox component.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | defaultValue | Default selected value | (string \| number)\[] | \[] |  |
 | disabled | If disable all checkboxes | boolean | false |  |
 | name | The `name` property of all `input[type="checkbox"]` children | string | - |  |

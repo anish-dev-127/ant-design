@@ -29,6 +29,7 @@ A carousel component. Scales with its container.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | autoplay | Whether to scroll automatically | boolean | false |  |
 | dotPosition | The position of the dots, which can be one of `top` `bottom` `left` `right` | string | `bottom` |  |
 | dots | Whether to show the dots at the bottom of the gallery, `object` for `dotsClass` and any others | boolean \| { className?: string } | true |  |

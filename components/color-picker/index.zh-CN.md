@@ -42,6 +42,7 @@ group:
 <!-- prettier-ignore -->
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | :-- | :-- | :-- | :-- | :-- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | allowClear | 允许清除选择的颜色 | boolean | false | |
 | arrow | 配置弹出的箭头 | `boolean \| { pointAtCenter: boolean }` | true | |
 | children | 颜色选择器的触发器 | React.ReactNode | - | |

@@ -47,6 +47,7 @@ demo:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | allowClear | 支持清除 | boolean \| { clearIcon?: ReactNode } | false | 5.8.0: 支持对象形式 |
 | autoFocus | 自动获取焦点 | boolean | false |  |
 | bordered | 是否有边框 | boolean | true |  |

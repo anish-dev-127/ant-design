@@ -46,6 +46,7 @@ Cascade selection box.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | allowClear | Show clear button | boolean \| { clearIcon?: ReactNode } | false | 5.8.0: Support object type |
 | autoFocus | If get focus when component mounted | boolean | false |  |
 | bordered | Whether has border style | boolean | true |  |

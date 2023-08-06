@@ -76,6 +76,7 @@ const items: CollapseProps['items'] = [
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | accordion | If true, Collapse renders as Accordion | boolean | false |  |
 | activeKey | Key of the active panel | string\[] \| string <br/> number\[] \| number | No default value. In `accordion` mode, it's the key of the first panel |  |
 | bordered | Toggles rendering of the border around the collapse block | boolean | true |  |

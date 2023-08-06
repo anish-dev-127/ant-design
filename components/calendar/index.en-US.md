@@ -42,6 +42,7 @@ When data is in the form of dates, such as schedules, timetables, prices calenda
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | dateCellRender | Customize the display of the date cell, the returned content will be appended to the cell | function(date: Dayjs): ReactNode | - |  |
 | dateFullCellRender | Customize the display of the date cell, the returned content will override the cell | function(date: Dayjs): ReactNode | - |  |
 | defaultValue | The date selected by default | [dayjs](https://day.js.org/) | - |  |

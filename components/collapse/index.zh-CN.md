@@ -77,6 +77,7 @@ const items: CollapseProps['items'] = [
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | accordion | 手风琴模式 | boolean | false |  |
 | activeKey | 当前激活 tab 面板的 key | string\[] \| string <br/> number\[] \| number | 默认无，accordion 模式下默认第一个元素 |  |
 | bordered | 带边框风格的折叠面板 | boolean | true |  |

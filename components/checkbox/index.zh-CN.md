@@ -34,6 +34,7 @@ demo:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | autoFocus | 自动获取焦点 | boolean | false |  |
 | checked | 指定当前是否选中 | boolean | false |  |
 | defaultChecked | 初始是否选中 | boolean | false |  |
@@ -45,6 +46,7 @@ demo:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | defaultValue | 默认选中的选项 | (string \| number)\[] | \[] |  |
 | disabled | 整组失效 | boolean | false |  |
 | name | CheckboxGroup 下所有 `input[type="checkbox"]` 的 `name` 属性 | string | - |  |

@@ -50,6 +50,7 @@ return <Breadcrumb routes={[{ breadcrumbName: 'sample' }]} />;
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | itemRender | Custom item renderer | (route, params, routes, paths) => ReactNode | - |  |
 | params | Routing parameters | object | - |  |
 | items | The routing stack information of router | [items\[\]](#ItemType) | - | 5.3.0 |

@@ -51,6 +51,7 @@ return <Breadcrumb routes={[{ breadcrumbName: 'sample' }]} />;
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | itemRender | 自定义链接函数，和 react-router 配置使用 | (route, params, routes, paths) => ReactNode | - |  |
 | params | 路由的参数 | object | - |  |
 | items | 路由栈信息 | [items\[\]](#ItemType) | - | 5.3.0 |

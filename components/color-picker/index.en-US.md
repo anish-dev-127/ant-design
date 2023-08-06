@@ -41,6 +41,7 @@ Used when the user needs to customize the color selection.
 <!-- prettier-ignore -->
 | Property | Description | Type | Default | Version |
 | :-- | :-- | :-- | :-- | :-- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | allowClear | 	Allow clearing color selected | boolean | false | |
 | arrow | Configuration for popup arrow | `boolean \| { pointAtCenter: boolean }` | true | |
 | children | Trigger of ColorPicker | React.ReactNode | - | |

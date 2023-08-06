@@ -30,6 +30,7 @@ demo:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | autoplay | 是否自动切换 | boolean | false |  |
 | dotPosition | 面板指示点位置，可选 `top` `bottom` `left` `right` | string | `bottom` |  |
 | dots | 是否显示面板指示点，如果为 `object` 则同时可以指定 `dotsClass` 或者 | boolean \| { className?: string } | true |  |

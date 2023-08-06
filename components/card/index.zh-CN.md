@@ -38,6 +38,7 @@ coverDark: https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*a-8zR6rrupgAAA
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | actions | 卡片操作组，位置在卡片底部 | Array&lt;ReactNode> | - |  |
 | activeTabKey | 当前激活页签的 key | string | - |  |
 | bodyStyle | 内容区域自定义样式 | CSSProperties | - |  |
