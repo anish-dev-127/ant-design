@@ -39,6 +39,7 @@ FloatButton. Available since `5.0.0`.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | icon | Set the icon component of button | ReactNode | - |  |
 | description | Text and other | ReactNode | - |  |
 | tooltip | The text shown in the tooltip | ReactNode \| () => ReactNode |  |  |

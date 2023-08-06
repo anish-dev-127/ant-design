@@ -30,6 +30,7 @@ A divider line separates different content.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | children | The wrapped title | ReactNode | - |  |
 | className | The className of container | string | - |  |
 | dashed | Whether line is dashed | boolean | false |  |

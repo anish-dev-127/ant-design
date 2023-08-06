@@ -32,6 +32,7 @@ Empty state placeholder.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | description | Customize description | ReactNode | - |  |
 | image | Customize image. Will treat as image url when string provided | ReactNode | `Empty.PRESENTED_IMAGE_DEFAULT` |  |
 | imageStyle | The style of image | CSSProperties | - |  |

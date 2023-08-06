@@ -40,6 +40,7 @@ demo:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | icon | 自定义图标 | ReactNode | - |  |
 | description | 文字及其它内容 | ReactNode | - |  |
 | tooltip | 气泡卡片的内容 | ReactNode \| () => ReactNode | - |  |

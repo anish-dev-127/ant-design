@@ -45,6 +45,7 @@ demo:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | arrow | 下拉框箭头是否显示 | boolean \| { pointAtCenter: boolean } | false |  |
 | autoAdjustOverflow | 下拉框被遮挡时自动调整位置 | boolean | true | 5.2.0 |
 | autoFocus | 打开后自动聚焦下拉框 | boolean | false | 4.21.0 |

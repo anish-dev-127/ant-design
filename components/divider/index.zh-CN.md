@@ -31,6 +31,7 @@ group:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | children | 嵌套的标题 | ReactNode | - |  |
 | className | 分割线样式类 | string | - |  |
 | dashed | 是否虚线 | boolean | false |  |
