@@ -36,6 +36,7 @@ Alert component for feedback.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | action | The action of Alert | ReactNode | - | 4.9.0 |
 | afterClose | Called when close animation is finished | () => void | - |  |
 | banner | Whether to show as banner | boolean | false |  |

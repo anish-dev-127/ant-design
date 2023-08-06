@@ -37,6 +37,7 @@ group:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | action | 自定义操作项 | ReactNode | - | 4.9.0 |
 | afterClose | 关闭动画结束后触发的回调函数 | () => void | - |  |
 | banner | 是否用作顶部公告 | boolean | false |  |

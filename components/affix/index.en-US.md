@@ -29,7 +29,8 @@ Please note that Affix should not cover other content on the page, especially wh
 ## API
 
 | Property | Description | Type | Default |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | offsetBottom | Offset from the bottom of the viewport (in pixels) | number | - |
 | offsetTop | Offset from the top of the viewport (in pixels) | number | 0 |
 | target | Specifies the scrollable area DOM node | () => HTMLElement | () => window |

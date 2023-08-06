@@ -39,6 +39,7 @@ For displaying anchor hyperlinks on page and jumping between them.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | affix | Fixed mode of Anchor | boolean | true |  |
 | bounds | Bounding distance of anchor area | number | 5 |  |
 | getContainer | Scrolling container | () => HTMLElement | () => window |  |

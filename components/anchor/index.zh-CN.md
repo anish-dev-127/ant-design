@@ -40,6 +40,7 @@ group:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | affix | 固定模式 | boolean | true |  |
 | bounds | 锚点区域边界 | number | 5 |  |
 | getContainer | 指定滚动的容器 | () => HTMLElement | () => window |  |

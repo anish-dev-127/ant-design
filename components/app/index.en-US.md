@@ -126,6 +126,7 @@ export default () => {
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | message | Global config for Message | [MessageConfig](/components/message/#messageconfig) | - | 5.3.0 |
 | notification | Global config for Notification | [NotificationConfig](/components/notification/#notificationconfig) | - | 5.3.0 |
 
