@@ -40,6 +40,7 @@ group: 数据展示
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | color | 自定义小圆点的颜色 | string | - |  |
 | count | 展示的数字，大于 overflowCount 时显示为 `${overflowCount}+`，为 0 时隐藏 | ReactNode | - |  |
 | classNames | 语义化结构 class | Record<SemanticDOM, string> | - | 5.7.0 |

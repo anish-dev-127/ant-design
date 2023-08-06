@@ -36,6 +36,7 @@ group:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | alt | 图像无法显示时的替代文本 | string | - |  |
 | gap | 字符类型距离左右两侧边界单位像素 | number | 4 | 4.3.0 |
 | icon | 设置头像的自定义图标 | ReactNode | - |  |
@@ -53,6 +54,7 @@ group:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | maxCount | 显示的最大头像个数 | number | - |  |
 | maxPopoverPlacement | 多余头像气泡弹出位置 | `top` \| `bottom` | `top` |  |
 | maxPopoverTrigger | 设置多余头像 Popover 的触发方式 | `hover` \| `focus` \| `click` | `hover` | 4.17.0 |

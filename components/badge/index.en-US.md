@@ -39,6 +39,7 @@ Badge normally appears in proximity to notifications or user avatars with eye-ca
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | color | Customize Badge dot color | string | - |  |
 | count | Number to show in badge | ReactNode | - |  |
 | classNames | Semantic DOM class | Record<SemanticDOM, string> | - | 5.7.0 |
