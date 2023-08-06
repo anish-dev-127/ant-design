@@ -14,6 +14,7 @@ interface DataType {
   description: string;
 }
 
+
 type TablePaginationPosition =
   | 'topLeft'
   | 'topCenter'
