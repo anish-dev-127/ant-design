@@ -28,7 +28,7 @@ Please note that Affix should not cover other content on the page, especially wh
 
 ## API
 
-| Property | Description | Type | Default |
+| Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
 | rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | offsetBottom | Offset from the bottom of the viewport (in pixels) | number | - |

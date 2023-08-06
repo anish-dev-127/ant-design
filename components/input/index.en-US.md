@@ -92,7 +92,7 @@ The rest of the props of `Input.TextArea` are the same as the original [textarea
 
 #### Input.Search
 
-| Property | Description | Type | Default |
+| Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
 | rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | enterButton | Whether to show an enter button after input. This property conflicts with the `addonAfter` property | boolean \| ReactNode | false |

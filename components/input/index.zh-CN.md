@@ -93,7 +93,7 @@ Input 的其他属性和 React 自带的 [input](https://reactjs.org/docs/dom-el
 
 #### Input.Search
 
-| 参数 | 说明 | 类型 | 默认值 |
+| 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
 | rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | enterButton | 是否有确认按钮，可设为按钮文字。该属性会与 `addonAfter` 冲突。 | boolean \| ReactNode | false |

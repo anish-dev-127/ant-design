@@ -88,7 +88,7 @@ Style of a navigation should conform to its level.
 
 The wrapper.
 
-| Property | Description | Type | Default |
+| Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
 | rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | className | Container className | string | - |
