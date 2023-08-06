@@ -47,8 +47,9 @@ return (
 
 ### Timeline
 
-| Property | Description | Type | Default |
-| --- | --- | --- | --- |
+| Property | Description | Type | Default | Version |
+| --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | mode | By sending `alternate` the timeline will distribute the nodes to the left and right | `left` \| `alternate` \| `right` | - |
 | pending | Set the last ghost node's existence or its content | boolean \| ReactNode | false |
 | pendingDot | Set the dot of the last ghost node when pending is true | ReactNode | &lt;LoadingOutlined /&gt; |

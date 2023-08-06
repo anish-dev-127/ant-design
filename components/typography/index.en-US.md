@@ -33,6 +33,7 @@ Basic text writing, including headings, body text, lists, and more.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | code | Code style | boolean | false |  |
 | copyable | Whether to be copyable, customize it via setting an object | boolean \| [copyable](#copyable) | false | [copyable](#copyable) |
 | delete | Deleted line style | boolean | false |  |

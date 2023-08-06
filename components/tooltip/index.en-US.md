@@ -31,9 +31,10 @@ A simple text popup tip.
 
 ## API
 
-| Property | Description                   | Type                         | Default |
-| -------- | ----------------------------- | ---------------------------- | ------- |
-| title    | The text shown in the tooltip | ReactNode \| () => ReactNode | -       |
+| Property      | Description                   | Type                         | Default | Version |
+| ------------- | ----------------------------- | ---------------------------- | ------- | ------- |
+| rootClassName | ClassName on the root element | string                       | -       | 5.2.0   |
+| title         | The text shown in the tooltip | ReactNode \| () => ReactNode | -       |
 
 ### Common API
 

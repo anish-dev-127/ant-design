@@ -29,6 +29,7 @@ Add specific text or patterns to the page.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | width | The width of the watermark, the default value of `content` is its own width | number | 120 |  |
 | height | The height of the watermark, the default value of `content` is its own height | number | 64 |  |
 | rotate | When the watermark is drawn, the rotation Angle, unit `°` | number | -22 |  |
