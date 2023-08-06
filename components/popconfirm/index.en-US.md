@@ -33,6 +33,7 @@ The difference with the `confirm` modal dialog is that it's more lightweight tha
 
 | Param | Description | Type | Default value | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | cancelButtonProps | The cancel button props | [ButtonProps](/components/button/#api) | - |  |
 | cancelText | The text of the Cancel button | string | `Cancel` |  |
 | disabled | Whether show popconfirm when click its childrenNode | boolean | false |  |

@@ -26,8 +26,9 @@ Switching Selector.
 
 ## API
 
-| Property | Description | Type | Default |
-| --- | --- | --- | --- |
+| Property | Description | Type | Default | Version |
+| --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | autoFocus | Whether get focus when component mounted | boolean | false |
 | checked | Determine whether the Switch is checked | boolean | false |
 | checkedChildren | The content to be shown when the state is checked | ReactNode | - |

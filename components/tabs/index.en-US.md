@@ -44,6 +44,7 @@ Ant Design has 3 types of Tabs for different situations.
 <!-- prettier-ignore -->
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | activeKey | Current TabPane's key | string | - |  |
 | addIcon | Customize add icon | ReactNode | - | 4.4.0 |
 | animated | Whether to change tabs with animation. Only works while `tabPosition="top"` | boolean \| { inkBar: boolean, tabPane: boolean } | { inkBar: true, tabPane: false } |  |

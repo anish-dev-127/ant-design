@@ -30,8 +30,9 @@ Provide a placeholder while you wait for content to load, or to visualize conten
 
 ### Skeleton
 
-| Property | Description | Type | Default |
-| --- | --- | --- | --- |
+| Property | Description | Type | Default | Version |
+| --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | active | Show animation effect | boolean | false |
 | avatar | Show avatar placeholder | boolean \| [SkeletonAvatarProps](#skeletonavatarprops) | false |
 | loading | Display the skeleton when true | boolean | - |

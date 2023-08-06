@@ -36,6 +36,7 @@ coverDark: https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*tBzwQ7raKX8AAA
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | bordered | 是否展示边框 | boolean | false |  |
 | dataSource | 列表数据源 | any\[] | - |  |
 | footer | 列表底部 | ReactNode | - |  |

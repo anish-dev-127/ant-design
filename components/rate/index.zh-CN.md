@@ -32,6 +32,7 @@ demo:
 
 | 属性 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | allowClear | 是否允许再次点击后清除 | boolean | true |  |
 | allowHalf | 是否允许半选 | boolean | false |  |
 | autoFocus | 自动获取焦点 | boolean | false |  |

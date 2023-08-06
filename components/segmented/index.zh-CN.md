@@ -40,6 +40,7 @@ demo:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | block | 将宽度调整为父元素宽度的选项 | boolean | false |  |
 | defaultValue | 默认选中的值 | string \| number |  |  |
 | disabled | 是否禁用 | boolean | false |  |

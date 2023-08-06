@@ -28,7 +28,8 @@ When part of the page is waiting for asynchronous data or during a rendering pro
 ## API
 
 | Property | Description | Type | Default |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | delay | Specifies a delay in milliseconds for loading state (prevent flush) | number (milliseconds) | - |
 | indicator | React node of the spinning indicator | ReactNode | - |
 | size | The size of Spin, options: `small`, `default` and `large` | string | `default` |

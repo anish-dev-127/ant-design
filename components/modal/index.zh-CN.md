@@ -43,6 +43,7 @@ demo:
 
 | 参数 | 说明 | 类型 | 默认值 | 版本 |
 | --- | --- | --- | --- | --- |
+| rootClassName | 添加在组件最外层的 className | string | - | 5.2.0 |
 | afterClose | Modal 完全关闭后的回调 | function | - |  |
 | bodyStyle | Modal body 样式 | CSSProperties |  |  |
 | cancelButtonProps | cancel 按钮 props | [ButtonProps](/components/button-cn#api) | - |  |

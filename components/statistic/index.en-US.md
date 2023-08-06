@@ -31,6 +31,7 @@ Display statistic number.
 
 | Property         | Description                   | Type                 | Default | Version |
 | ---------------- | ----------------------------- | -------------------- | ------- | ------- |
+| rootClassName    | ClassName on the root element | string               | -       | 5.2.0   |
 | decimalSeparator | The decimal separator         | string               | `.`     |         |
 | formatter        | Customize value display logic | (value) => ReactNode | -       |         |
 | groupSeparator   | Group separator               | string               | `,`     |         |

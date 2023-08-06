@@ -32,10 +32,11 @@ demo:
 
 ## API
 
-| 参数    | 说明     | 类型                         | 默认值 | 版本 |
-| ------- | -------- | ---------------------------- | ------ | ---- |
-| content | 卡片内容 | ReactNode \| () => ReactNode | -      |      |
-| title   | 卡片标题 | ReactNode \| () => ReactNode | -      |      |
+| 参数          | 说明                         | 类型                         | 默认值 | 版本  |
+| ------------- | ---------------------------- | ---------------------------- | ------ | ----- |
+| rootClassName | 添加在组件最外层的 className | string                       | -      | 5.2.0 |
+| content       | 卡片内容                     | ReactNode \| () => ReactNode | -      |       |
+| title         | 卡片标题                     | ReactNode \| () => ReactNode | -      |       |
 
 更多属性请参考 [Tooltip](/components/tooltip-cn/#api)。
 

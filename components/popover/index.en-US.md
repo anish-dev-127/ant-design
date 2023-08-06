@@ -31,10 +31,11 @@ Comparing with `Tooltip`, besides information `Popover` card can also provide ac
 
 ## API
 
-| Param   | Description         | Type                         | Default value | Version |
-| ------- | ------------------- | ---------------------------- | ------------- | ------- |
-| content | Content of the card | ReactNode \| () => ReactNode | -             |         |
-| title   | Title of the card   | ReactNode \| () => ReactNode | -             |         |
+| Param | Description | Type | Default value | Version |
+| --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
+| content | Content of the card | ReactNode \| () => ReactNode | - |  |
+| title | Title of the card | ReactNode \| () => ReactNode | - |  |
 
 Consult [Tooltip's documentation](/components/tooltip/#api) to find more APIs.
 

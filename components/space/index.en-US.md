@@ -35,6 +35,7 @@ Set components spacing.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | align | Align items | `start` \| `end` \|`center` \|`baseline` | - | 4.2.0 |
 | direction | The space direction | `vertical` \| `horizontal` | `horizontal` | 4.1.0 |
 | size | The space size | [Size](#size) \| [Size\[\]](#size) | `small` | 4.1.0 \| Array: 4.9.0 |

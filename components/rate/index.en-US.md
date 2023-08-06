@@ -31,6 +31,7 @@ Rate component.
 
 | Property | Description | type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | allowClear | Whether to allow clear when click again | boolean | true |  |
 | allowHalf | Whether to allow semi selection | boolean | false |  |
 | autoFocus | If get focus when component mounted | boolean | false |  |

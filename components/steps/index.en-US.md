@@ -43,6 +43,7 @@ The whole of the step bar.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | className | Additional class to Steps | string | - |  |
 | current | To set the current step, counting from 0. You can overwrite this state by using `status` of `Step` | number | 0 |  |
 | direction | To specify the direction of the step bar, `horizontal` or `vertical` | string | `horizontal` |  |

@@ -41,6 +41,7 @@ Properties that shared by all types.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | format | The template function of the content | function(percent, successPercent) | (percent) => percent + `%` | - |
 | percent | To set the completion percentage | number | 0 | - |
 | showInfo | Whether to display the progress value and the status icon | boolean | true |

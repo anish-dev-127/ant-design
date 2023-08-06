@@ -36,8 +36,9 @@ Radio.
 
 ### Radio/Radio.Button
 
-| Property | Description | Type | Default |
-| --- | --- | --- | --- |
+| Property | Description | Type | Default | Version |
+| --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | autoFocus | Whether get focus when component mounted | boolean | false |
 | checked | Specifies whether the radio is selected | boolean | false |
 | defaultChecked | Specifies the initial state: whether or not the radio is selected | boolean | false |

@@ -42,6 +42,7 @@ Additionally, if you need show a simple confirmation dialog, you can use [`App.u
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | afterClose | Specify a function that will be called when modal is closed completely | function | - |  |
 | bodyStyle | Body style for modal body element. Such as height, padding etc | CSSProperties |  |  |
 | cancelButtonProps | The cancel button props | [ButtonProps](/components/button/#api) | - |  |

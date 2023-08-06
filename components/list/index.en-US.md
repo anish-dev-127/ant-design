@@ -33,6 +33,7 @@ A list can be used to display content related to a single subject. The content c
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | bordered | Toggles rendering of the border around the list | boolean | false |  |
 | dataSource | DataSource array for list | any\[] | - |  |
 | footer | List footer renderer | ReactNode | - |  |

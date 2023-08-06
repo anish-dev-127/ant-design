@@ -37,6 +37,7 @@ Used when the text needs to be converted into a QR Code.
 
 | Property | Description | Type | Default | Version |
 | :-- | :-- | :-- | :-- | :-- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | value | scanned text | string | - |
 | type | render type | `canvas \| svg ` | `canvas` | 5.6.0 |
 | icon | include image url (only image link are supported) | string | - |

@@ -37,6 +37,7 @@ Segmented Controls. This component is available since `antd@4.20.0`.
 
 | Property | Description | Type | Default | Version |
 | --- | --- | --- | --- | --- |
+| rootClassName | ClassName on the root element | string | - | 5.2.0 |
 | block | Option to fit width to its parent\'s width | boolean | false |  |
 | defaultValue | Default selected value | string \| number |  |  |
 | disabled | Disable all segments | boolean | false |  |
